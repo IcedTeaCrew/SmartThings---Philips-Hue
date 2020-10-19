@@ -1,5 +1,6 @@
 # One-time setup (add the Device Handler to SmartThings)
 1. Sign in to the [Samsung SmartThings IDE](https://account.smartthings.com/)
+1. Click on `My Locations` -> `My Home`
 1. Click `My Device Handlers`
 1. Click `Create New Device Handler`
 1. Select `From Code`
